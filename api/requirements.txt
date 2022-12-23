@@ -29,4 +29,4 @@ redis==4.0.0
 typeguard==2.13.3
 # ..................................................................
 # For interaction with Hashicorp Vault
-hvac==0.11.2
+hvac==1.0.2
